@@ -1,0 +1,2 @@
+PYTHONPATH=/home/jimmy/home/djangotest/covidtest
+pytest
